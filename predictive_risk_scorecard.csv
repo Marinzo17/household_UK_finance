@@ -1,0 +1,31 @@
+Year,Decile,Weekly Income,FE pct Income,LR Prob,LR Pred,DT Pred,Consensus,Risk Level,True Label
+2021,1,GBP168,28.5,0.495,Secure,Secure,Secure,MODERATE,Secure
+2021,2,GBP272,20.3,0.389,Secure,Secure,Secure,LOW RISK,Secure
+2021,3,GBP352,17.5,0.347,Secure,Secure,Secure,LOW RISK,Secure
+2021,4,GBP431,15.7,0.319,Secure,Secure,Secure,LOW RISK,Secure
+2021,5,GBP513,14.6,0.297,Secure,Secure,Secure,LOW RISK,Secure
+2021,6,GBP601,13.5,0.277,Secure,Secure,Secure,LOW RISK,Secure
+2021,7,GBP703,12.6,0.259,Secure,Secure,Secure,LOW RISK,Secure
+2021,8,GBP836,11.7,0.242,Secure,Secure,Secure,LOW RISK,Secure
+2021,9,GBP1029,10.8,0.226,Secure,Secure,Secure,LOW RISK,Secure
+2021,10,GBP1689,8.2,0.198,Secure,Secure,Secure,LOW RISK,Secure
+2022,1,GBP178,34.2,0.661,Vulnerable,Vulnerable,Vulnerable,MODERATE,Vulnerable
+2022,2,GBP287,24.4,0.541,Vulnerable,Secure,Vulnerable,MODERATE,Secure
+2022,3,GBP373,21.0,0.489,Secure,Secure,Secure,MODERATE,Secure
+2022,4,GBP455,18.9,0.453,Secure,Secure,Secure,MODERATE,Secure
+2022,5,GBP543,17.4,0.424,Secure,Secure,Secure,LOW RISK,Secure
+2022,6,GBP636,16.1,0.398,Secure,Secure,Secure,LOW RISK,Secure
+2022,7,GBP742,15.1,0.374,Secure,Secure,Secure,LOW RISK,Secure
+2022,8,GBP883,13.9,0.351,Secure,Secure,Secure,LOW RISK,Secure
+2022,9,GBP1086,12.8,0.328,Secure,Secure,Secure,LOW RISK,Secure
+2022,10,GBP1785,9.7,0.287,Secure,Secure,Secure,LOW RISK,Secure
+2023,1,GBP188,37.4,0.678,Vulnerable,Vulnerable,Vulnerable,MODERATE,Vulnerable
+2023,2,GBP303,26.8,0.55,Vulnerable,Secure,Vulnerable,MODERATE,Secure
+2023,3,GBP392,23.1,0.495,Secure,Secure,Secure,MODERATE,Secure
+2023,4,GBP480,20.8,0.456,Secure,Secure,Secure,MODERATE,Secure
+2023,5,GBP572,19.2,0.426,Secure,Secure,Secure,LOW RISK,Secure
+2023,6,GBP670,17.8,0.398,Secure,Secure,Secure,LOW RISK,Secure
+2023,7,GBP783,16.6,0.374,Secure,Secure,Secure,LOW RISK,Secure
+2023,8,GBP931,15.4,0.349,Secure,Secure,Secure,LOW RISK,Secure
+2023,9,GBP1145,14.1,0.326,Secure,Secure,Secure,LOW RISK,Secure
+2023,10,GBP1881,10.7,0.282,Secure,Secure,Secure,LOW RISK,Secure
